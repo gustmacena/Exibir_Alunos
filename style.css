@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap%27');
+
+* {
+
+    font-family: 'calibri', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+
+}
+
+.content{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 20px 0px 0px 40px;
+    margin: 5px;
+    overflow-y: auto;
+    width: 16%;
+    height: 570px;
+    display: inline-block;
+}
